@@ -1,0 +1,1 @@
+Placeholder for installed wave sources. These sources can be used as Accent Hit or to create drumsets.
